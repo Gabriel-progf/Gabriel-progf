@@ -11,7 +11,7 @@
   <img align="center" alt="ProjetosPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ProjetosC#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="ProjetosJava" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="ProjetosJavaScripts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/javascripts-original.svg">
+  <img align="center" alt="ProjetosJavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/javascript-original.svg">
 </div>
 
 ##
